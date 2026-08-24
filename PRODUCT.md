@@ -4,6 +4,11 @@
 **Generated:** 2026-08-11 (bulk Book Dev closeout)  
 **Status:** starter / portfolio boundary
 
+## Current product truth
+
+- This is a local-only studio people directory with search, add, and delete actions.
+- Records are stored in this browser; there are no accounts, invites, permissions, or remote sync.
+
 ## Purpose
 
 Portfolio repository under Book Dev. This brief records ownership and the
